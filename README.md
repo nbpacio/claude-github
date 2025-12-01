@@ -196,3 +196,5 @@ Once integration is complete, you can:
 - Leverage Claude Code in VSCode for AI-assisted development
 - Use Claude CLI for command-line interactions
 - Automate workflows between Claude and GitHub
+
+
