@@ -197,3 +197,4 @@ Once integration is complete, you can:
 - Use Claude CLI for command-line interactions
 - Automate workflows between Claude and GitHub
 
+
